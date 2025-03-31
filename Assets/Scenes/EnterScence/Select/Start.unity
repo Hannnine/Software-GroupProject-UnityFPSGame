@@ -254,10 +254,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc8617224ea7da747b3119ed5489f2fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultResolution: {x: 1920, y: 1080}
-  minResolution: {x: 1280, y: 720}
-  targetAspect: 1.7778
-  startFullscreen: 1
 --- !u!1 &730876293
 GameObject:
   m_ObjectHideFlags: 0
@@ -414,9 +410,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 877479478}
+  - component: {fileID: 877479480}
   - component: {fileID: 877479477}
   - component: {fileID: 877479476}
   - component: {fileID: 877479475}
+  - component: {fileID: 877479479}
   m_Layer: 5
   m_Name: Canvas_start
   m_TagString: Untagged
@@ -511,6 +509,30 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &877479479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 877479474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8617224ea7da747b3119ed5489f2fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &877479480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 877479474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc8617224ea7da747b3119ed5489f2fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &922702069
 GameObject:
   m_ObjectHideFlags: 0

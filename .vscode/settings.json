@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Network-GroupProject-UnityFPSGame.sln"
+    "dotnet.defaultSolution": "Software-GroupProject-UnityFPSGame.sln"
 }

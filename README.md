@@ -38,6 +38,7 @@ This diagram showcases the internal structure and components of the game. It out
 
 > 🔧 The input system is designed to be compatible with various gaming devices.
 
+
 ![Structure Diagram](Documentation/Structure.drawio.png)
 
 ---
@@ -55,3 +56,6 @@ The use case diagram summarizes the scenarios that players may encounter. These 
 This diagram illustrates the interactions between core components in detail, providing a clear view of the implementation logic and process flow.
 
 ![Sequence Diagram](Documentation/Sequence.drawio.png)
+
+---
+

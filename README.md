@@ -28,7 +28,7 @@ The following flow chart illustrates the gameplay process that the player will e
 
 > 💡 If the player is only interested in action, the game can be played as a pure shooting game. However, those who are curious about the narrative and world-building can explore hidden story elements through scattered diaries. These diaries are triggered under specific conditions.
 
-![Flow Chart](Documentation/Flow.drawio.png)
+
 
 ---
 
@@ -38,7 +38,6 @@ This diagram showcases the internal structure and components of the game. It out
 
 > 🔧 The input system is designed to be compatible with various gaming devices.
 
-![Structure Diagram](Documentation/Structure.drawio.png)
 
 ---
 
@@ -46,7 +45,7 @@ This diagram showcases the internal structure and components of the game. It out
 
 The use case diagram summarizes the scenarios that players may encounter. These are arranged in a sequence consistent with the flow chart mentioned above.
 
-![Use Case Diagram](Documentation/UseCase.drawio.png)
+
 
 ---
 
@@ -54,4 +53,4 @@ The use case diagram summarizes the scenarios that players may encounter. These 
 
 This diagram illustrates the interactions between core components in detail, providing a clear view of the implementation logic and process flow.
 
-![Sequence Diagram](Documentation/Sequence.drawio.png)
+

@@ -46,7 +46,7 @@ This diagram showcases the internal structure and components of the game. It out
 
 The use case diagram summarizes the scenarios that players may encounter. These are arranged in a sequence consistent with the flow chart mentioned above.
 
-![Use Case Diagram](Documentation/Use Case.drawio.png)
+![Use Case Diagram](Documentation/UseCase.drawio.png)
 
 ---
 

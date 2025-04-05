@@ -4,13 +4,13 @@
 
 This is a 3D-FPS game based on `Unity`. The version of `Unity` is `2021.3.35f1`.
 
-## Development Process: Agile
+# Development Process: Agile
 
 For a simple 3D FPS game and a student project, using **Agile** as the development process is a suitable choice due to its flexibility and iterative workflow. Agile allows for continuous improvement, frequent testing, and better collaboration throughout the development life cycle.
 
 ---
 
-## Team & Responsibilities
+# Team & Responsibilities
 
 | Member | Responsibilities |
 |--------|------------------|
@@ -20,9 +20,9 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 
 ---
 
-## Graphical Abstract
+# Graphical Abstract
 
-### 1. Flow Chart
+## 1. Flow Chart
 
 The following flow chart illustrates the gameplay process that the player will experience. It also demonstrates the core design advantages of our game, such as **Hero & Difficulty Selection** and **Diary Events (Background Story)**.
 
@@ -32,7 +32,7 @@ The following flow chart illustrates the gameplay process that the player will e
 
 ---
 
-### 2. Structure Diagram
+## 2. Structure Diagram
 
 This diagram showcases the internal structure and components of the game. It outlines how the different modules interact and the planned implementation strategies.
 
@@ -42,7 +42,7 @@ This diagram showcases the internal structure and components of the game. It out
 
 ---
 
-### 3. Use Case Diagram
+## 3. Use Case Diagram
 
 The use case diagram summarizes the scenarios that players may encounter. These are arranged in a sequence consistent with the flow chart mentioned above.
 
@@ -50,7 +50,7 @@ The use case diagram summarizes the scenarios that players may encounter. These 
 
 ---
 
-### 4. Sequence Diagram
+## 4. Sequence Diagram
 
 This diagram illustrates the interactions between core components in detail, providing a clear view of the implementation logic and process flow.
 
